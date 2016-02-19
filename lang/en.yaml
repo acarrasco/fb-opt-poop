@@ -1,0 +1,8 @@
+poop_error: 'Something went wrong with that poop (try having more fiber?): %s'
+poop_top_header: 'And the toop poopers are:'
+poop_rank: '#%d %s with %d poops'
+poop_update: 'you got %d poops already!'
+poop_nothing_to_claim: 'No recent poops to claim! you are late, cowboy!'
+poop_claim_update: 'you have pooped %s %d times'
+poop_user_query: '%s pooped %d times'
+poop_user_query_missing: 'I could not find anybody by that name'
